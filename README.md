@@ -7,10 +7,10 @@ This repository of Python notebooks and script are a part of a course [Creating 
 ### Basics
 | Theme  | Script  | Description |
 | ------------- | ------------- | ------------- |
-| Basics | | Planned 1St Jan 2024 |
+| Basics | [Prisoners Dilemma ](https://github.com/visualbuffer/creating_with_python/blob/main/Basics/prisoner-dilema.ipynb)| Available |
 | Data Science | [Data Exploration](https://github.com/visualbuffer/creating_with_python/blob/main/Data_Science/DataExploration.ipynb)| Available |
 |Data Science | Clustering | Planned 1St Jan 2024 |
-|Web Service | WebScraping| Planned 5th Jan 2024 |
+|Web Service |  HTML Email Graphs| Planned 5th Jan 2024 |
 
 ---
 
